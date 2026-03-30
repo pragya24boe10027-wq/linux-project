@@ -14,7 +14,7 @@
 
 | 👤 Author | 🎓 University | 📋 Course | 🆔 Roll Number |
 |-----------|--------------|-----------|----------------|
-| Rudraksh Singh Khichi | VIT Bhopal University | Open Source Software | 24BCE10380 |
+| Pragya Tiwari | VIT Bhopal University | Open Source Software | 24BOE10027 |
 
 </div>
 
@@ -200,6 +200,6 @@ The report covers:
 ---
 
 Made with 🐍 and open source spirit  
-**Rudraksh Singh Khichi** | VIT Bhopal University | 2026
+**Pragya Tiwari** | VIT Bhopal University | 2026
 
 </div>
